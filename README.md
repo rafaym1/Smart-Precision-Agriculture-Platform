@@ -1,0 +1,1 @@
+# Smart-Precision-Agriculture-Platform
