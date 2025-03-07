@@ -78,9 +78,6 @@ pip install -r requirements.txt
 ```
 
 
-## 📧 Contact
-For any questions or collaborations, reach out at [your email] or [LinkedIn Profile].
+## Contact
+For any questions or collaborations, reach out at [LinkedIn Profile].](https://www.linkedin.com/in/rafay-mustafa/)
 
----
-
-Want me to generate the `requirements.txt` for you as well? Also, do you have a repo name in mind?
